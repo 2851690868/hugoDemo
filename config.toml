@@ -1,0 +1,35 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Winpex Europe"
+theme = "winpex-europe-theme"
+paginate = 6
+
+copyright = "WINPEX EUROPE SERVICES GMBH"
+
+[params]
+    dateFormat = "2006年01月02日"
+    icpID = "浙ICP备2020032490号-2"
+    icpURL = "https://beian.miit.gov.cn/#/Integrated/index"
+
+# Main Menu
+[[menu.main]]
+name = "HOME"
+url = ""
+weight = 1
+[[menu.main]]
+name = "ABOUT"
+url = "about"
+weight = 2
+[[menu.main]]
+name = "PRODUCT"
+url = "product"
+weight = 3
+[[menu.main]]
+name = "CONTACT"
+url = "contact"
+weight = 4
+
+# Footer menu
+
+
+
